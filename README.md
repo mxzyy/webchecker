@@ -4,7 +4,7 @@ Buat check web live/down
   <img src="images/2.png">
 </h3>
 
-```
+```console
 usage: app.py [-h] [-d [DOMAIN ...]] [-f [FILE ...]]
 
 Tools untuk melakukan check terhadap website yang sedang aktif/tidak
@@ -18,6 +18,7 @@ options:
 ```
 
 ## How To Install
-`pip install requests beautifulsoup`
-`git clone https://github.com/mxzyy/webchecker.git`
-`python app.py -h`
+
+- `pip install requests beautifulsoup` 
+- `git clone https://github.com/mxzyy/webchecker.git`
+- `python app.py -h`
