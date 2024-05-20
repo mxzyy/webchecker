@@ -19,4 +19,5 @@ options:
 
 ## How To Install
 `pip install requests beautifulsoup`
-`git clone https://github.com/mxzyy/webchecker/`
+`git clone https://github.com/mxzyy/webchecker.git`
+`python app.py -h`
