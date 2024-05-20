@@ -16,3 +16,7 @@ options:
   -f [FILE ...], --file [FILE ...]
                         Membaca teks dari file
 ```
+
+## How To Install
+`pip install requests beautifulsoup`
+`git clone https://github.com/mxzyy/webchecker/`
